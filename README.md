@@ -6,7 +6,7 @@
 The goal was to create a landing page redesign of Tangerine. Among Canadian bank sites, Tangerine had the most unique UI. I decided to modify existing components in order  to create something equally captivating. 
 1 major difference was a fixed second navbar that would display sub menus within the page rather than a drop down menu. 
 
-(![image](https://user-images.githubusercontent.com/59670279/113354500-4d8ee380-930d-11eb-95e0-0c97b7f791ae.png)
+![image](https://user-images.githubusercontent.com/59670279/113354500-4d8ee380-930d-11eb-95e0-0c97b7f791ae.png)
 
 **Built using**:
 - React
